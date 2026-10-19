@@ -1,0 +1,25 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# Local/private settings and credential material
+.env
+.env.*
+*.local.lua
+*secret*
+*credentials*
+*.pem
+*.key
+*.p12
+*.pfx
+*.bak
+*.backup
+*.sqlite*
+*.db
+id_rsa*
+id_ed25519*
